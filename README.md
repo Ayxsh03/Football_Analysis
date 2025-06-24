@@ -1,5 +1,5 @@
 # Football Analysis using YOLO
-
+![Demo](runs/output.gif)
 **Analysis using YOLO, Kmeans, and Optical Flow**<br><br>
 This repository focuses on analyzing football matches using advanced artificial intelligence and computer vision techniques. It leverages YOLO (You Only Look Once)—one of the leading AI object detection models—to identify and track players, referees, and the football itself in video footage. The analysis includes team identification via shirt colors using Kmeans clustering, calculating ball possession percentages, and measuring player movements accurately through optical flow and perspective transformation.
 
